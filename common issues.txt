@@ -1,0 +1,16 @@
+wrong raw link. github has many redirect links. only use the correct raw link (adjust to fit):
+https://raw.githubusercontent.com/sunwindsss/bruhcringesmp-resources/main/bruhcringesmp-resourcepack.zip
+
+in server properties, raw link needs the backwards slash as follows:
+https\://raw.githubusercontent.com/sunwindsss/bruhcringesmp-resources/main/bruhcringesmp-resourcepack.zip
+
+sha1 file checksum. use raw link to download resource .zip, and put it in this site to check sha1 checksum:
+https://emn178.github.io/online-tools/sha1_checksum.html
+
+pack format. ensure the resource pack follows correct minecraft version pack format:
+https://minecraft.wiki/w/Pack_format#List_of_pack_formats
+(for version 26.1.2 it is 84.0)
+
+the raw link needs to be for a PUBLIC github repo (if hosted on a repo). If it's a private repo, the real raw link won't work (404) for other clients joining.
+
+CLIENTS DO NOT NEED THE RESOURCE PACK CLIENT-SIDE. THE RESOURCE PACK IS AUTOMATICALLY DOWNLOADED UPON JOINING THE SERVER.
