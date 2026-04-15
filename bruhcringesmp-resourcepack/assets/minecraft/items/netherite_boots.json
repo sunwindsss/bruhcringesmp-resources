@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": ["adamantium_boots"],
+        "model": {
+          "type": "minecraft:model", 
+          "model": "bruhcringesmp:item/adamantium_boots"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_boots"
+    }
+  }
+}
