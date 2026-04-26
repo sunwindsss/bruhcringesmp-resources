@@ -13,4 +13,6 @@ https://minecraft.wiki/w/Pack_format#List_of_pack_formats
 
 the raw link needs to be for a PUBLIC github repo (if hosted on a repo). If it's a private repo, the real raw link won't work (404) for other clients joining.
 
+The .zip file must have pack.mcmeta at the root of the archive!!!!!!!!!!!!!!!!! when .zipping make sure it doesnt make an extra folder, assets and pack.mcmeta must be at the ROOT!!
+
 CLIENTS DO NOT NEED THE RESOURCE PACK CLIENT-SIDE. THE RESOURCE PACK IS AUTOMATICALLY DOWNLOADED UPON JOINING THE SERVER.
